@@ -38,6 +38,7 @@ function MainCard() {
           </path>
         </svg>
       </div>
+
       <div className="w-200 h-130 rounded-lg border overflow-hidden">
         <div className="bg-gray-600 text-white px-5 py-3 rounded-tl-lg rounded-tr-lg">
           Home
