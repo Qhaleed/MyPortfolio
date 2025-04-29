@@ -2,7 +2,7 @@ import "./MainCard.css";
 
 function MainCard() {
   return (
-    <div className="bg-white p-10 flex items-center justify-center h-screen">
+    <div className="bg-gray-400 p-10 flex items-center justify-center h-screen">
       <div className="w-200 h-130 rounded-lg border overflow-hidden">
         <div className="bg-gray-600 text-white px-5 py-3 rounded-tl-lg rounded-tr-lg">
           Home
