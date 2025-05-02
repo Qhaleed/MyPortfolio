@@ -56,6 +56,11 @@ function MainCard() {
             <li>Works</li>
             <li>Faq</li>
             <li>Contact</li>
+            <li>About</li>
+            <li>Links</li>
+            <li>Works</li>
+            <li>Faq</li>
+            <li>Contact</li>
           </ul>
         </div>
       </div>
